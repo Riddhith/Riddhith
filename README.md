@@ -1,3 +1,4 @@
+<img align="centre" alt="Coding" width="400" src="Screenshot 2025-02-26 003613.png">
 <h1 align="center">Hi 👋, I'm Riddhith Banerjee</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
